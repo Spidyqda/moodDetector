@@ -1,0 +1,17 @@
+Install Flask
+Install OpenCV
+Install Keras
+Install Numpy
+Install TensorFlow
+Install Os
+Install Sklearn
+Install Pandas
+Install matplotlib
+
+
+Dataset: "Face Expression Recognition"
+Link: 
+Also you can find the dataset in releases
+
+**IMPORTANT**
+You can find the weights of the model in releases
